@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Lucas, homem trans, formado em Administração e estudante de programação!!! 
 
-Here are some ideas to get you started:
 - 💡 Hoje eu estou em processo de migração de carreira
 - 🌱 Estudando HTML, CSS, Javascript
 - 📫 Contate-me no e-mail: lucasrafasreis@gmail.com
 - 😄 Pronomes: Ele/Dele
+- 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
 
 <div align="center">
   <a href="https://github.com/Lucas-R2">
