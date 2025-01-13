@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas, homem trans, formado em Administração e aprofundando meu conhecimento em dados!!! 
+## Olá! Eu sou o Lucas, homem trans, bacharel em Administração e aprofundando meu conhecimento em dados!!! 
 
 - 💡 Hoje eu estou em processo de migração de carreira
 - 📫 Contate-me no e-mail: lucasrafasreis@gmail.com
