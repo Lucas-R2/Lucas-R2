@@ -1,4 +1,4 @@
-## Olá! 👋 Eu sou o Lucas
+## Olá! Eu sou o Lucas!
 
 Sou bacharel em Administração, estudante de Sistemas de Informação e estou em transição de carreira para a área de Tecnologia, com foco em Análise de Dados.
 
