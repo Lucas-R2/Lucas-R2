@@ -1,9 +1,12 @@
-## Olá! Eu sou o Lucas, homem trans, bacharel em Administração e aprofundando meu conhecimento em dados!!! 
+## Olá! 👋 Eu sou o Lucas
 
-- 💡 Hoje eu estou em processo de migração de carreira
-- 📫 Contate-me no e-mail: lucasrafasreis@gmail.com
-- 😄 Pronomes: Ele/Dele
-- 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
+Sou bacharel em Administração, estudante de Sistemas de Informação e estou em transição de carreira para a área de Tecnologia, com foco em Análise de Dados.
+
+- 📊 Atuação e estudos voltados para análise de dados, automação e melhoria de processos
+- 🎓 Formação em Administração | Cursando Sistemas de Informação
+- 💡 Em constante aprendizado em dados, tecnologia e computação em nuvem
+- 📫 Contato: lucasrafasreis@gmail.com
+- 😄 Pronomes: Ele/Dele 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️
 
 <div align="center">
   <a href="https://github.com/Lucas-R2">
@@ -25,4 +28,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
->
+
